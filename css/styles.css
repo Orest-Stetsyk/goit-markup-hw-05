@@ -632,11 +632,11 @@ img {
     letter-spacing: 0.04em;
 }
 
-.footer-icon-frame-3 {
+.footer-icon-frame {
     margin-left: 16px;
 }
 
-.footer-icon-frame-3-use {
+.footer-icon-frame-use {
     fill: #FFFFFF;
 }
 
@@ -860,6 +860,11 @@ img {
 
 .revew-form-checkbox:checked+.revew-form-checkbox-label .revew-form-own-checkbox-icon {
     opacity: 1;
+}
+
+.accent-colors {
+    color: #4d5ae5;
+
 }
 
 .review-form-submit-btn {
